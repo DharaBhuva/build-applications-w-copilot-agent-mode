@@ -1,0 +1,1 @@
+# This file will be used to configure CORS and Djongo for MongoDB in Django settings.
